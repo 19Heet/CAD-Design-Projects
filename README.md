@@ -1,1 +1,2 @@
-# CAD-Design-Projects
+# Floor-plan + Ovehang Roof
+This AutoCAd drawing illustrates a realistic and viable floor-plan for a house. This drawing provides a very accurate modal of a well contrusted floor-plan. It includes the use of regulated dimensions for each component. These components roughly include the wall thickness, door thickness, room sizes, and realistic orientations. A front view is also provided within the drawing to illustrates the sizing and design of the overhang on the roof to sustain weather conditions and water circulation. Along with the drawing, a finalised title block is also crated to propose the finalised work in a professional manner.
